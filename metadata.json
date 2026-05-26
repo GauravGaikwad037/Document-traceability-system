@@ -1,0 +1,6 @@
+{
+  "name": "Document Traceability System",
+  "description": "An end-to-end document traceability system featuring real-time revision tracking, metadata management, and an immutable cryptographic audit ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
